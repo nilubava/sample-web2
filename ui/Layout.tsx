@@ -8,7 +8,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
     <div className="max-w-5xl mx-auto antialiased">
     
         Source app!
-      <Link href="/web1-test">Test Source!</Link>
+      <Link href="/web1-test">Test redirect/rewrite!</Link>
 
       <Footer />
     </div>
